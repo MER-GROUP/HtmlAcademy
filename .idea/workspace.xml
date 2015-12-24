@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/001-Знакомство/keks.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" afterPath="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html" afterPath="$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="005-Одиночные_HTML-теги.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html">
+      <file leaf-file-name="006-Атрибуты_HTML-тегов.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5847953">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.64327484">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="005-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-CSS.css">
+      <file leaf-file-name="006-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/006-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -70,6 +71,8 @@
         <option value="$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/005-CSS.css" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" />
+        <option value="$PROJECT_DIR$/src/001-Знакомство/006-CSS.css" />
+        <option value="$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html" />
       </list>
     </option>
   </component>
@@ -330,7 +333,8 @@
     <MESSAGE value="Znakomstvo v3" />
     <MESSAGE value="Znakomstvo v4" />
     <MESSAGE value="Znakomstvo v5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo v5" />
+    <MESSAGE value="Znakomstvo v6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo v6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -641,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.330033">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
@@ -649,8 +653,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5847953">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.13864818">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/006-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64327484">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
