@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html" afterPath="$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" afterPath="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="004-Азы_HTML.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html">
+      <file leaf-file-name="005-Одиночные_HTML-теги.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.877193">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.5847953">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/004-CSS.css">
+      <file leaf-file-name="005-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -68,6 +68,8 @@
         <option value="$PROJECT_DIR$/src/001-Знакомство/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/004-CSS.css" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html" />
+        <option value="$PROJECT_DIR$/src/001-Знакомство/005-CSS.css" />
+        <option value="$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html" />
       </list>
     </option>
   </component>
@@ -327,7 +329,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Znakomstvo v3" />
     <MESSAGE value="Znakomstvo v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo v4" />
+    <MESSAGE value="Znakomstvo v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo v5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -590,14 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/002-CSS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6585789">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/003-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2640264">
@@ -622,16 +617,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/004-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0990099">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/002-CSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41594455">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/004-Азы_HTML.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.877193">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.13864818">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/005-Одиночные_HTML-теги.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5847953">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
         </state>
       </provider>
