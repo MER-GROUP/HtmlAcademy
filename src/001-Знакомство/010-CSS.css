@@ -1,0 +1,15 @@
+body {
+    font-family: Tahoma, serif;
+}
+
+h1 {
+    color: #999999;
+}
+
+strong {
+    color: green;
+}
+
+em {
+    color: red;
+}
