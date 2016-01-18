@@ -1,0 +1,12 @@
+h1 {
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #618ad2;
+}
+
+img {
+    float: right;
+    width: 150px;
+    margin: 0 10px;
+    border-radius: 50px;
+}

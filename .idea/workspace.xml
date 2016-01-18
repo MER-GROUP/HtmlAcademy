@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-Структура_HTML-документа/keks.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-CSS.css" afterPath="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-Простейшая_HTML-страница.html" afterPath="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-Простейшая_HTML-страница.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css" afterPath="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html" afterPath="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="002-Простейшая_HTML-страница.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/002-Простейшая_HTML-страница.html">
+      <file leaf-file-name="003-Заголовок_HTML-страницы.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.116959065">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.23391813">
+              <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="002-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/002-CSS.css">
+      <file leaf-file-name="003-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -93,6 +94,8 @@
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/001-С_чего_начинается_HTML.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-Простейшая_HTML-страница.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/002-CSS.css" />
+        <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css" />
+        <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html" />
       </list>
     </option>
   </component>
@@ -378,28 +381,14 @@
     <MESSAGE value="Znakomstvo v14" />
     <MESSAGE value="Struktura HTML Documenta v1" />
     <MESSAGE value="Struktura HTML Documenta v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Struktura HTML Documenta v2" />
+    <MESSAGE value="Struktura HTML Documenta v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Struktura HTML Documenta v3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/002-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/002-CSS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/002-CSS.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -736,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/001-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/014-Первое_испытание.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6896552">
@@ -760,18 +741,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/001-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0330033">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/002-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0330033">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/002-Простейшая_HTML-страница.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116959065">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="-2.0689654">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23391813">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
           <folding />
         </state>
       </provider>
