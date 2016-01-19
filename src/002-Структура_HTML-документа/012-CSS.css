@@ -1,0 +1,6 @@
+h1 {
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #618ad2;
+    transition: color .5s;
+}
