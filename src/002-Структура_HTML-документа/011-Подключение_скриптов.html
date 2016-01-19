@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Подключение скриптов</title>
+        <link rel="stylesheet" type="text/css" href="011-CSS.css">
+    </head>
+    <body>
+        <h1>Подключение скриптов</h1>
+        <p id="blinking">Подключение скриптов можно
+            выполнять разными способами. Один из способов
+            заключается в описании скриптов прямо внутри HTML-страницы.</p>
+        <script>
+            var p = document.getElementById("blinking");
+            setInterval(function() {
+                if (p.style.fontSize != "10px") {
+                    p.style.fontSize = "10px";
+                } else {
+                    p.style.fontSize = "20px";
+                }
+            }, 2000);
+        </script>
+    </body>
+</html>
