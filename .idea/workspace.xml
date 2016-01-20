@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-Неупорядоченный_список.html" afterPath="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-Неупорядоченный_список.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-Упорядоченный_список.html" afterPath="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-Упорядоченный_список.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,18 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="003-Неупорядоченный_список.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-Неупорядоченный_список.html">
+      <file leaf-file-name="004-Упорядоченный_список.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-Упорядоченный_список.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46783626">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.29239765">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="003-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-CSS.css">
+      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -60,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/001-Знакомство/006-CSS.css" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/007-CSS.css" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/006-Атрибуты_HTML-тегов.html" />
         <option value="$PROJECT_DIR$/src/001-Знакомство/007-Ищем_Ошибки.html" />
@@ -111,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/001-Абзацы.html" />
         <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/002-Заголовки_и_подзаголовки.html" />
         <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-Неупорядоченный_список.html" />
+        <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-Упорядоченный_список.html" />
       </list>
     </option>
   </component>
@@ -382,7 +382,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo v7" />
     <MESSAGE value="Znakomstvo v8" />
     <MESSAGE value="Znakomstvo v9" />
     <MESSAGE value="Znakomstvo v10" />
@@ -407,27 +406,14 @@
     <MESSAGE value="Razmetka teksta HTML v1" />
     <MESSAGE value="Razmetka teksta HTML v2" />
     <MESSAGE value="Razmetka teksta HTML v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Razmetka teksta HTML v3" />
+    <MESSAGE value="Razmetka teksta HTML v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Razmetka teksta HTML v4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/007-Ищем_Ошибки.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7586207">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/001-Знакомство/008-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/001-Знакомство/008-Азы_CSS.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7586207">
@@ -772,8 +758,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/003-Неупорядоченный_список.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46783626">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/004-Упорядоченный_список.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29239765">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
