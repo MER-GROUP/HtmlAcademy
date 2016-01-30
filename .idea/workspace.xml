@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/file.rtf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="004-Относительные_адреса.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html">
+      <file leaf-file-name="005-Ссылка_на_файл.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4093567">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.64327484">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css">
+      <file leaf-file-name="005-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/003-Заголовок_HTML-страницы.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/004-Кодировка_HTML-страницы.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/004-CSS.css" />
@@ -112,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/003-Абсолютные_адреса.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html" />
+        <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html" />
       </list>
     </option>
   </component>
@@ -383,7 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Struktura HTML Documenta v11" />
     <MESSAGE value="Struktura HTML Documenta v12" />
     <MESSAGE value="Struktura HTML Documenta v13" />
     <MESSAGE value="Struktura HTML Documenta v14" />
@@ -408,27 +407,14 @@
     <MESSAGE value="Ssulki_I_Izobragenija v2" />
     <MESSAGE value="Ssulki_I_Izobragenija v3" />
     <MESSAGE value="Ssulki_I_Izobragenija v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ssulki_I_Izobragenija v4" />
+    <MESSAGE value="Ssulki_I_Izobragenija v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ssulki_I_Izobragenija v5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/011-Подключение_скриптов.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/012-JS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/002-Структура_HTML-документа/013-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -753,14 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/003-Абсолютные_адреса.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -769,10 +747,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4093567">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64327484">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
