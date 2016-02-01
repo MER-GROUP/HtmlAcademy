@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/photo6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html" afterPath="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +25,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="013-Фоторепортаж.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html">
+      <file leaf-file-name="001-Простейшая_таблица.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29239765">
               <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
@@ -42,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="013-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css">
+      <file leaf-file-name="001-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/009-Тайна_CSS-редактора.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/009-CSS.css" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/010-CSS.css" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/010-Подключение_внешних_стилей.html" />
@@ -118,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/012-Изображение-ссылка.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html" />
       </list>
     </option>
   </component>
@@ -184,7 +177,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="004-Ссылки_и_изображения" />
+              <option name="myItemId" value="005-Знакомство_с_таблицами" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,8 +198,8 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,7 +382,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Razmetka teksta HTML v6" />
     <MESSAGE value="Razmetka teksta HTML v7" />
     <MESSAGE value="Razmetka teksta HTML v8" />
     <MESSAGE value="Razmetka teksta HTML v9" />
@@ -414,27 +406,14 @@
     <MESSAGE value="Ssulki_I_Izobragenija v11" />
     <MESSAGE value="Ssulki_I_Izobragenija v12" />
     <MESSAGE value="Ssulki_I_Izobragenija v13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ssulki_I_Izobragenija v13" />
+    <MESSAGE value="Znakomstvo S Tablicami v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/006-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/005-Многоуровневый_список.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/007-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -645,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +762,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4482758">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29239765">
           <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
