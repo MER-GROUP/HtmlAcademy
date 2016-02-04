@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-CSS.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-Добавляем_строки.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-CSS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-Добавляем_столбцы.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HtmlAcademy.iws" />
@@ -26,18 +26,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="002-Добавляем_строки.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-Добавляем_строки.html">
+      <file leaf-file-name="003-Добавляем_столбцы.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-Добавляем_столбцы.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46783626">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.116959065">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="002-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-CSS.css">
+      <file leaf-file-name="003-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -61,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/010-CSS.css" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/010-Подключение_внешних_стилей.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/011-Подключение_скриптов.html" />
         <option value="$PROJECT_DIR$/src/002-Структура_HTML-документа/011-CSS.css" />
@@ -112,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-Простейшая_таблица.html" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-Добавляем_строки.html" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-Добавляем_столбцы.html" />
       </list>
     </option>
   </component>
@@ -147,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,7 +200,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -383,7 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Razmetka teksta HTML v7" />
     <MESSAGE value="Razmetka teksta HTML v8" />
     <MESSAGE value="Razmetka teksta HTML v9" />
     <MESSAGE value="Razmetka teksta HTML v10" />
@@ -408,27 +407,14 @@
     <MESSAGE value="Ssulki_I_Izobragenija v12" />
     <MESSAGE value="Ssulki_I_Izobragenija v13" />
     <MESSAGE value="Znakomstvo S Tablicami v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v1" />
+    <MESSAGE value="Znakomstvo S Tablicami v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/008-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/007-Список_определений.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4482758">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/009-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -741,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,10 +752,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/002-Добавляем_строки.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46783626">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/003-Добавляем_столбцы.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.116959065">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
