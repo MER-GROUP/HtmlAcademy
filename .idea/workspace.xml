@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-CSS.css" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-Добавим_цвета.html" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-Добавим_цвета.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-CSS.css" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="019-Добавим_цвета.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-Добавим_цвета.html">
+      <file leaf-file-name="020-Раскрашиваем_строки.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.28490028">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="019-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-CSS.css">
+      <file leaf-file-name="020-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/001-Что_такое_ссылка.html" />
-        <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/002-Задаём_адрес_ссылки.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/003-Абсолютные_адреса.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-CSS.css" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/004-Относительные_адреса.html" />
@@ -112,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-CSS.css" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-Добавим_цвета.html" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-CSS.css" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html" />
       </list>
     </option>
   </component>
@@ -383,7 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ssulki_I_Izobragenija v8" />
     <MESSAGE value="Ssulki_I_Izobragenija v9" />
     <MESSAGE value="Ssulki_I_Izobragenija v10" />
     <MESSAGE value="Ssulki_I_Izobragenija v11" />
@@ -408,27 +407,14 @@
     <MESSAGE value="Znakomstvo S Tablicami v17" />
     <MESSAGE value="Znakomstvo S Tablicami v18" />
     <MESSAGE value="Znakomstvo S Tablicami v19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v19" />
+    <MESSAGE value="Znakomstvo S Tablicami v20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/008-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/007-Ссылка_с_якорем.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/009-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -786,10 +772,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/019-Добавим_цвета.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28490028">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
