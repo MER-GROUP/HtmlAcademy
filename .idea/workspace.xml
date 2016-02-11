@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-CSS.css" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-Испытание_таблица_посложнее.html" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-Испытание_таблица_посложнее.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-CSS.css" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html" afterPath="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="017-Испытание_таблица_посложнее.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-Испытание_таблица_посложнее.html">
+      <file leaf-file-name="018-Выравнивание_содержимого_в_ячейках.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29239765">
-              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.058479533">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="017-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-CSS.css">
+      <file leaf-file-name="018-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -61,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/016-Испытание_разметка_статьи.html" />
-        <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/016-CSS.css" />
         <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/017-CSS.css" />
         <option value="$PROJECT_DIR$/src/003-Разметка_текста_с_помощью HTML/017-Испытание_рецепт.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/001-Что_такое_ссылка.html" />
@@ -112,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/016-Комбо_colspan_rowspan.html" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-CSS.css" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-Испытание_таблица_посложнее.html" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-CSS.css" />
+        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html" />
       </list>
     </option>
   </component>
@@ -146,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,6 +200,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,7 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ssulki_I_Izobragenija v6" />
     <MESSAGE value="Ssulki_I_Izobragenija v7" />
     <MESSAGE value="Ssulki_I_Izobragenija v8" />
     <MESSAGE value="Ssulki_I_Izobragenija v9" />
@@ -408,27 +407,14 @@
     <MESSAGE value="Znakomstvo S Tablicami v15" />
     <MESSAGE value="Znakomstvo S Tablicami v16" />
     <MESSAGE value="Znakomstvo S Tablicami v17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v17" />
+    <MESSAGE value="Znakomstvo S Tablicami v18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Tablicami v18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/006-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/005-Ссылка_на_файл.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4482758">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/006-Ссылка_на_изображение.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -673,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2640264">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,8 +770,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/017-Испытание_таблица_посложнее.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29239765">
-          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/018-Выравнивание_содержимого_в_ячейках.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058479533">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
