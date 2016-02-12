@@ -1,0 +1,40 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    padding:10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    text-align: left;
+}
+td{
+    padding: 10px;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+.thfon1{
+    background-color: darkcyan;
+    color:white;
+}
+.thfon2{
+    background-color: lightblue;
+    color:white;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.rowcolor{
+    background-color: lightyellow;
+}
