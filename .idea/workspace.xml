@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-CSS.css" afterPath="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html" afterPath="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css" afterPath="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html" afterPath="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="001-Первая_форма.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html">
+      <file leaf-file-name="002-Текстовое_поле_ввода.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7977208">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.28490028">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/001-CSS.css">
+      <file leaf-file-name="002-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -61,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/009-Добавим_изображение.html" />
-        <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/010-Размеры_изображения.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/011-Альтернативный_текст.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/012-Изображение-ссылка.html" />
         <option value="$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css" />
@@ -112,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/023-Испытание_итоговая_таблица.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html" />
+        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css" />
+        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html" />
       </list>
     </option>
   </component>
@@ -146,9 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,6 +199,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,7 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ssulki_I_Izobragenija v13" />
     <MESSAGE value="Znakomstvo S Tablicami v1" />
     <MESSAGE value="Znakomstvo S Tablicami v2" />
     <MESSAGE value="Znakomstvo S Tablicami v3" />
@@ -408,27 +407,14 @@
     <MESSAGE value="Znakomstvo S Tablicami v22" />
     <MESSAGE value="Znakomstvo S Tablicami v23" />
     <MESSAGE value="Znakomstvo S Formami v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Formami v1" />
+    <MESSAGE value="Znakomstvo S Formami v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S Formami v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/001-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/004-Ссылки_и_изображения/013-Фоторепортаж.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.4482758">
@@ -755,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,14 +748,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7977208">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28490028">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
