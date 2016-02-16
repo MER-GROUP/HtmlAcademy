@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Испытание: форма регистрации</title>
+        <link rel="stylesheet" type="text/css" href="011-CSS.css">
+    </head>
+    <body>
+        <h1>Регистрация</h1>
+
+        <form action="https://echo.htmlacademy.ru" method="post">
+            <label for="login-field">
+                Ваш логин (email):
+            </label>
+            <br>
+            <input type="text" name="login" id="login-field">
+            <br>
+            <label for="pswd-field">
+                Пароль:
+            </label>
+            <br>
+            <input type="password" name="pswd" id="pswd-field">
+            <br>
+            <label for="comment-field">
+                Информация о себе:
+            </label>
+            <br>
+            <textarea name="comment" id="comment-field" rows="3"></textarea>
+            <br>
+            <input type="checkbox" checked name="spam" id="spam-field">
+            <label for="spam-field">
+                Подписаться на рассылку
+            </label>
+            <br>
+            <input type="submit" value="Зарегистрироваться" name="register">
+        </form>
+    </body>
+</html>
