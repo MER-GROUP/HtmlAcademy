@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="004-Свойства_для_оформления_текста.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html">
+      <file leaf-file-name="005-Свойства_для_задания_размеров_и_отступов.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8595989">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.40114614">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-CSS.css">
+      <file leaf-file-name="005-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html" />
-        <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/021-CSS.css" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/021-Задаём_размеры_таблицы.html" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/022-CSS.css" />
         <option value="$PROJECT_DIR$/src/005-Знакомство_с_таблицами/022-Задаём_размеры_отдельных_ячеек_и_столбцов.html" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/003-Продвинутые_селекторы.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html" />
       </list>
     </option>
   </component>
@@ -355,7 +355,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35962147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35962147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18667643" sideWeight="0.49369085" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18667643" sideWeight="0.50630915" order="2" side_tool="true" content_ui="tabs" />
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S Tablicami v21" />
     <MESSAGE value="Znakomstvo S Tablicami v22" />
     <MESSAGE value="Znakomstvo S Tablicami v23" />
     <MESSAGE value="Znakomstvo S Formami v1" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Znakomstvo S CSS v2" />
     <MESSAGE value="Znakomstvo S CSS v3" />
     <MESSAGE value="Znakomstvo S CSS v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v4" />
+    <MESSAGE value="Znakomstvo S CSS v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/020-Раскрашиваем_строки.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/022-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/005-Знакомство_с_таблицами/021-Задаём_размеры_таблицы.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -773,8 +759,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8595989">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40114614">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
