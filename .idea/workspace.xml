@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="008-Декоративные_свойства.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html">
+      <file leaf-file-name="009-Каскадность.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45845273">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.28653294">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="008-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-CSS.css">
+      <file leaf-file-name="009-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html" />
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/003-Идентификатор_и_значение_по_умолчанию.html" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/007-Создание_сетки_страницы.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" />
       </list>
     </option>
   </component>
@@ -352,6 +352,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35962147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -360,7 +361,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18667643" sideWeight="0.50630915" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S Formami v2" />
     <MESSAGE value="Znakomstvo S Formami v3" />
     <MESSAGE value="Znakomstvo S Formami v4" />
     <MESSAGE value="Znakomstvo S Formami v5" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Znakomstvo S CSS v6" />
     <MESSAGE value="Znakomstvo S CSS v7" />
     <MESSAGE value="Znakomstvo S CSS v8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v8" />
+    <MESSAGE value="Znakomstvo S CSS v9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/001-Первая_форма.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/002-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0330033">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/003-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -774,10 +760,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45845273">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28653294">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
