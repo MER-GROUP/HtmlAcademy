@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html" afterPath="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="009-Каскадность.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html">
+      <file leaf-file-name="010-Каскадность_Переопределение_стилей.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28653294">
-              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.97421205">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="009-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css">
+      <file leaf-file-name="010-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/002-Текстовое_поле_ввода.html" />
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/003-Идентификатор_и_значение_по_умолчанию.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/004-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/004-Подпись_для_поля_ввода.html" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/008-Декоративные_свойства.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css" />
+        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html" />
       </list>
     </option>
   </component>
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S Formami v3" />
     <MESSAGE value="Znakomstvo S Formami v4" />
     <MESSAGE value="Znakomstvo S Formami v5" />
     <MESSAGE value="Znakomstvo S Formami v6" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Znakomstvo S CSS v7" />
     <MESSAGE value="Znakomstvo S CSS v8" />
     <MESSAGE value="Znakomstvo S CSS v9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v9" />
+    <MESSAGE value="Znakomstvo S CSS v10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Znakomstvo S CSS v10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/003-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/004-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/003-Идентификатор_и_значение_по_умолчанию.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -776,10 +762,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/009-Каскадность.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28653294">
-          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.97421205">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
