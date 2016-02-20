@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-Селекторы/shooter1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-Селекторы/course1.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/002-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/002-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,37 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="001-Нелёгкая_жизнь_без_селекторов.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html">
+      <file leaf-file-name="002-Селекторы_по_тегам.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40114614">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="001-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/001-CSS.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.28653294">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course1.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/course1.css">
+      <file leaf-file-name="002-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -79,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/010-CSS.css" />
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/010-Чекбокс_или_галочка.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/011-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/011-Испытание_форма_регистрации.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/012-CSS.css" />
@@ -128,8 +110,10 @@
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/015-Испытание_макет_прототип.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/015-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/course.css" />
-        <option value="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/course1.css" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/002-CSS.css" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html" />
       </list>
     </option>
   </component>
@@ -401,7 +385,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S Formami v10" />
     <MESSAGE value="Znakomstvo S Formami v11" />
     <MESSAGE value="Znakomstvo S Formami v12" />
     <MESSAGE value="Znakomstvo S Formami v13" />
@@ -426,27 +409,14 @@
     <MESSAGE value="Znakomstvo S CSS v14" />
     <MESSAGE value="Znakomstvo S CSS v15" />
     <MESSAGE value="Selectoru v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v1" />
+    <MESSAGE value="Selectoru v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/011-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/010-Чекбокс_или_галочка.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4482758">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/012-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -803,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40114614">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -812,6 +782,22 @@
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28653294">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
