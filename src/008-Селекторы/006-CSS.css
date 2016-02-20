@@ -1,0 +1,7 @@
+li{
+    background-color: white;
+}
+.first+li,
+.fourth +li{
+    background-color: red;
+}
