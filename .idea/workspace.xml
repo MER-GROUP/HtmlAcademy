@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-Селекторы/003-CSS.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-Селекторы/003-Селекторы_по_классам.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/004-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/004-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="003-Селекторы_по_классам.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-Селекторы_по_классам.html">
+      <file leaf-file-name="004-Отрабатываем_селекторы_по_классам.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17699115">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="003-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-CSS.css">
+      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/004-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -63,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/012-CSS.css" />
-        <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/012-Переключатель_или_радиобаттон.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/013-CSS.css" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/013-Группа_переключателей.html" />
         <option value="$PROJECT_DIR$/src/006-Знакомство_с_формами/014-CSS.css" />
@@ -114,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/008-Селекторы/001-Нелёгкая_жизнь_без_селекторов.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/003-Селекторы_по_классам.html" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/004-CSS.css" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html" />
       </list>
     </option>
   </component>
@@ -385,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S Formami v12" />
     <MESSAGE value="Znakomstvo S Formami v13" />
     <MESSAGE value="Znakomstvo S Formami v14" />
     <MESSAGE value="Znakomstvo S Formami v15" />
@@ -410,27 +408,14 @@
     <MESSAGE value="Selectoru v1" />
     <MESSAGE value="Selectoru v2" />
     <MESSAGE value="Selectoru v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v3" />
+    <MESSAGE value="Selectoru v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/012-Переключатель_или_радиобаттон.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/013-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0990099">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/006-Знакомство_с_формами/013-Группа_переключателей.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -739,10 +724,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27729636">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0660066">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +754,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/002-Селекторы_по_тегам.html">
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1650165">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/004-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-Селекторы_по_классам.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
@@ -768,18 +778,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-CSS.css">
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/003-Селекторы_по_классам.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17699115">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
