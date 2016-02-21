@@ -1,0 +1,7 @@
+li{
+    background-color: white;
+}
+li:nth-child(3),
+li:nth-child(4){
+    background-color: red;
+}
