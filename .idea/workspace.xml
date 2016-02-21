@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/017-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/017-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/017-Селектор_по_id.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/017-Селектор_по_id.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/018-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/018-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/018-Испытание_Дуэль.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/018-Испытание_Дуэль.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="017-Селектор_по_id.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/017-Селектор_по_id.html">
+      <file leaf-file-name="018-Испытание_Дуэль.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/018-Испытание_Дуэль.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29498526">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.41297936">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="017-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/017-CSS.css">
+      <file leaf-file-name="018-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/018-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-CSS.css" />
-        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/011-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/011-Каскадность_и_приоритеты.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/012-CSS.css" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/008-Селекторы/016-Селекторы_атрибутов.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/017-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/017-Селектор_по_id.html" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/018-CSS.css" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/018-Испытание_Дуэль.html" />
       </list>
     </option>
   </component>
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S CSS v8" />
     <MESSAGE value="Znakomstvo S CSS v9" />
     <MESSAGE value="Znakomstvo S CSS v10" />
     <MESSAGE value="Znakomstvo S CSS v11" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Selectoru v15" />
     <MESSAGE value="Selectoru v16" />
     <MESSAGE value="Selectoru v17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v17" />
+    <MESSAGE value="Selectoru v18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/011-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/010-Каскадность_Переопределение_стилей.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/011-Каскадность_и_приоритеты.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -803,10 +789,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/018-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/017-Селектор_по_id.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29498526">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.20797227">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/018-Испытание_Дуэль.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41297936">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
