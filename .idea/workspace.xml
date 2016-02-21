@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/008-Селекторы/course4.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/012-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/012-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/013-CSS.css" afterPath="$PROJECT_DIR$/src/008-Селекторы/013-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html" afterPath="$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="012-Псевдокласс_hover.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html">
+      <file leaf-file-name="013-Динамические_эффекты_с_помощью_hover.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4719764">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.5899705">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="012-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/012-CSS.css">
+      <file leaf-file-name="013-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/008-Селекторы/013-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -63,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/004-Свойства_для_оформления_текста.html" />
-        <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/006-CSS.css" />
         <option value="$PROJECT_DIR$/src/007-Знакомство_с_CSS/006-Позиционирование_элементов.html" />
@@ -114,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/008-Селекторы/course4.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/012-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/013-CSS.css" />
+        <option value="$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html" />
       </list>
     </option>
   </component>
@@ -385,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Znakomstvo S CSS v3" />
     <MESSAGE value="Znakomstvo S CSS v4" />
     <MESSAGE value="Znakomstvo S CSS v5" />
     <MESSAGE value="Znakomstvo S CSS v6" />
@@ -410,27 +408,14 @@
     <MESSAGE value="Selectoru v10" />
     <MESSAGE value="Selectoru v11" />
     <MESSAGE value="Selectoru v12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v12" />
+    <MESSAGE value="Selectoru v13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selectoru v13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/006-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/007-Знакомство_с_CSS/005-Свойства_для_задания_размеров_и_отступов.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -793,10 +778,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/013-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4719764">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state vertical-scroll-proportion="-3.4482758">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5899705">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>
