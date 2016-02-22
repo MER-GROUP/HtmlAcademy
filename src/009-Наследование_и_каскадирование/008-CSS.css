@@ -1,0 +1,14 @@
+body {
+    font-family: "PT Sans", sans-serif;
+}
+p{
+    font-size: 11px;
+}
+.block1{
+    color: #1abc9c;
+}
+.message{
+    padding: 5px;
+    border: 1px solid #95a5a6;
+    color: #95a5a6;
+}
