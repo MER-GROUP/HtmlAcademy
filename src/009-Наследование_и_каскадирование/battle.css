@@ -1,0 +1,55 @@
+body{
+    font-family:'PT Sans', sans-serif;
+}
+h1{
+    width:360px;
+    margin:20px auto;
+    text-align:center;
+    font-size:24px;
+    color:#2c3e50;
+}
+.battle{
+    position:relative;
+    width:360px;
+    padding:20px;
+    margin:20px auto;
+    box-shadow:0 0 3px #999;
+    text-align:center;
+}
+.battle:after{
+    content:'';
+    clear:both;
+    display:table;
+}
+.cat{
+    width:100px;
+    height:200px;
+    padding:10px;
+    text-align:center;
+    color:white;
+    background-repeat:no-repeat;
+    background-position:50% 88%;
+    border-radius:5px;
+    box-shadow:0 0 3px #999;
+}
+.cat-keksik{
+    float:left;
+    background-color:#2980b9;
+    background-image:url('cat_walk.png');
+}
+.cat-rudolf{
+    float:right;
+    background-color:#c0392b;
+    background-image:url('cat_grumpy.png');
+}
+.chicken{
+    position:absolute;
+    width:80px;
+    height:80px;
+    background:red;
+    border-radius:50%;
+    top:65px;
+    left:160px;
+    background:white url('chicken.png') no-repeat 50% 50%;
+    box-shadow:0 0 3px #CB7628;
+}
