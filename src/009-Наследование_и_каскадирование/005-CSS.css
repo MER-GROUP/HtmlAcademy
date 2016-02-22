@@ -1,0 +1,14 @@
+body {
+    font-family: "PT Sans", sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.block1{
+    font-style: italic;
+}
+.block2{
+    cursor: pointer;
+}
+.block2 ul{
+    list-style-type: square;
+}
