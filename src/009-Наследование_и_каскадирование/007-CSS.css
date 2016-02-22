@@ -1,0 +1,15 @@
+body {
+    font-family: "PT Sans", sans-serif;
+}
+
+ul {
+    margin: 5px;
+    padding: 5px;
+    list-style: none;
+    border: 1px solid #666666;
+}
+ul.second-list li{
+    border: inherit;
+    margin: inherit;
+    padding: inherit;
+}
