@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/cat_grumpy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/cat_walk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/chicken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/battle.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-CSS.css" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-Битва_за_курочку.html" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-Битва_за_курочку.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-CSS.css" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-Битва_за_курочку_Раунд_второй.html" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-Битва_за_курочку_Раунд_второй.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="009-Битва_за_курочку.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-Битва_за_курочку.html">
+      <file leaf-file-name="010-Битва_за_курочку_Раунд_второй.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-Битва_за_курочку_Раунд_второй.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3539823">
-              <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.64896756">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="009-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-CSS.css">
+      <file leaf-file-name="010-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -66,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/008-Селекторы/004-Отрабатываем_селекторы_по_классам.html" />
-        <option value="$PROJECT_DIR$/src/008-Селекторы/course2.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/005-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/005-Контекстные_селекторы.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/006-CSS.css" />
@@ -117,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/battle.css" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-CSS.css" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-Битва_за_курочку.html" />
+        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-CSS.css" />
+        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-Битва_за_курочку_Раунд_второй.html" />
       </list>
     </option>
   </component>
@@ -388,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selectoru v3" />
     <MESSAGE value="Selectoru v4" />
     <MESSAGE value="Selectoru v5" />
     <MESSAGE value="Selectoru v6" />
@@ -413,27 +408,14 @@
     <MESSAGE value="Nasledovanie i Kaskadirovanie v7" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v8" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nasledovanie i Kaskadirovanie v9" />
+    <MESSAGE value="Nasledovanie i Kaskadirovanie v10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nasledovanie i Kaskadirovanie v10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/008-Дочерние_селекторы.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/009-Псевдоклассы.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/010-Псевдокласс_nth-child.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -791,8 +773,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/009-Битва_за_курочку.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3539823">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.24263431">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/010-Битва_за_курочку_Раунд_второй.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64896756">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
