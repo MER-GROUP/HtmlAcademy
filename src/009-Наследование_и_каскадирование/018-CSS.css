@@ -1,0 +1,106 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 550px;
+    height: 300px;
+    font-size: 12px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.profile {
+    padding: 5px 10px;
+}
+
+.profile img {
+    display: block;
+    padding: 10px;
+    border: 2px solid #34495e;
+    border-radius: 8px;
+}
+
+.profile .photo {
+    float: left;
+    width: 152px;
+}
+
+.profile .info {
+    float: left;
+    width: 368px;
+    margin-left: 10px;
+}
+
+.info h2 {
+    margin: 0 !important;
+    padding: 10px !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    color: #ffffff !important;
+    background: #34495e !important;
+    border-radius: 4px !important;
+}
+
+.fact {
+    padding: 10px !important;
+    background: white !important;
+}
+
+.fact:nth-child(odd) {
+    background: #ecf0f1 !important;
+}
+
+.fact::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.fact .title {
+    float: left !important;
+    width: 120px !important;
+    text-align: right !important;
+    color: #7f8c8d !important;
+}
+
+.fact .value {
+    margin-left: 140px !important;
+    color: #34495e !important;
+}
+
+.albums {
+    margin-top: 5px;
+}
+
+.albums img {
+    float: left !important;
+    margin-right: 5px !important;
+}
+
+.albums img:last-child {
+    margin-right: 0 !important;
+}
+
+.button {
+    display: block !important;
+    height: 30px !important;
+    margin: 5px 0 !important;
+    line-height: 30px !important;
+    text-align: center !important;
+    color: #ffffff !important;
+    border-radius: 4px !important;
+}
+
+.stroke {
+    background: #3498db !important;
+}
+
+.feed {
+    background: #2ecc71 !important;
+}
+
+.startle {
+    background: #e74c3c !important;
+}
