@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/cat_a.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-CSS.css" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-Еще_задачка_на_порядок_кода.html" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-Еще_задачка_на_порядок_кода.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-CSS.css" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-Перекрестное_наследование.html" afterPath="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-Перекрестное_наследование.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="016-Еще_задачка_на_порядок_кода.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-Еще_задачка_на_порядок_кода.html">
+      <file leaf-file-name="017-Перекрестное_наследование.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-Перекрестное_наследование.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3539823">
-              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="016-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-CSS.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -62,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/008-Селекторы/011-CSS.css" />
-        <option value="$PROJECT_DIR$/src/008-Селекторы/011-nth-child_и_контекстные_селекторы.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/course4.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/012-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/012-Псевдокласс_hover.html" />
@@ -113,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/015-Расчет_значения_специфичности.html" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-CSS.css" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-Еще_задачка_на_порядок_кода.html" />
+        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-CSS.css" />
+        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-Перекрестное_наследование.html" />
       </list>
     </option>
   </component>
@@ -384,7 +375,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selectoru v10" />
     <MESSAGE value="Selectoru v11" />
     <MESSAGE value="Selectoru v12" />
     <MESSAGE value="Selectoru v13" />
@@ -409,27 +399,14 @@
     <MESSAGE value="Nasledovanie i Kaskadirovanie v14" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v15" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nasledovanie i Kaskadirovanie v16" />
+    <MESSAGE value="Nasledovanie i Kaskadirovanie v17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nasledovanie i Kaskadirovanie v17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/course4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/course5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4059406">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/017-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1650165">
@@ -788,10 +765,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8250825">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/016-Еще_задачка_на_порядок_кода.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3539823">
-          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.20797227">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/017-Перекрестное_наследование.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
           <folding />
         </state>
       </provider>
