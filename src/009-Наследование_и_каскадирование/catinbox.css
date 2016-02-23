@@ -1,0 +1,55 @@
+body{
+    font-family:'PT Sans', sans-serif;
+}
+#floor{
+    position:relative;
+    width:250px;
+    padding:50px;
+    margin:20px auto;
+    box-shadow:0 0 3px #999;
+    text-align:center;
+}
+.cat-in-box{
+    width:100px;
+    height:100px;
+    padding:10px;
+    text-align:center;
+	display: block;
+    background-repeat:no-repeat;
+    border-radius:5px;
+	background-image:url('cat_walk.png');
+	background-position: 50% 80%;
+	box-shadow:0 0 3px #999;
+	margin: 0 auto;
+}
+.boxes{
+    position:relative;
+    width:450px;
+    padding:20px;
+    margin:20px auto;
+    box-shadow:0 0 3px #999;
+    text-align:center;
+}
+.box{
+    width:100px;
+    height:100px;
+    padding:10px;
+    text-align:center;
+	display: inline-block;
+    background-repeat:no-repeat;
+    border-radius:5px;
+	background-position: 50% 80%;
+	box-shadow:0 0 3px #999;
+	margin: 10px;
+	vertical-align: top;
+	color: #fff;
+}
+.cat-keksik {
+    background-image: url('cat_walk.png');
+}
+.cat-rudolf {
+    background-image: url('cat_grumpy.png');
+}
+.cat-snezhok {
+    background-image: url('cat_w.png');
+}
