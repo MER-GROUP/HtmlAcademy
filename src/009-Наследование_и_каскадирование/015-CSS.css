@@ -1,0 +1,25 @@
+body {
+    font-family: "PT Sans", sans-serif;
+}
+
+li {
+    margin-bottom: 30px;
+}
+
+pre {
+    max-width: 350px;
+    padding: 5px 10px;
+    background: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    border-radius: 3px;
+}
+
+input[type="text"] {
+    width: 50px;
+    margin-left: 5px;
+    padding: 3px;
+    font-family: "PT Sans", sans-serif;
+    vertical-align: middle;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
