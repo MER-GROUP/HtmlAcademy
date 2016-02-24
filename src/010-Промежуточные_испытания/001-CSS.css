@@ -1,0 +1,20 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+body{
+    width:400px;
+    padding:0 25px;
+    font-family:"Arial", sans-serif;
+    font-size:12px;
+}
+h1{
+    font-size:16px;
+    font-weight:normal;
+}
+li{
+    margin-bottom:5px;
+}
+li li{
+    margin:0;
+}
