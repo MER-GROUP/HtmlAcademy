@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/pair1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/pair2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/pair3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/germany.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/medal-bronze.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/medal-gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/medal-silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/medal-total.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/nederlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/norway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/russia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/switzerland.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-фигурное_катание_спортивные_пары.html" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-фигурное_катание_спортивные_пары.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-CSS.css" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-Испытание_2_медальный_зачёт.html" afterPath="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-Испытание_2_медальный_зачёт.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,25 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="001-фигурное_катание_спортивные_пары.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/001-фигурное_катание_спортивные_пары.html">
+      <file leaf-file-name="002-Испытание_2_медальный_зачёт.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/002-Испытание_2_медальный_зачёт.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.179941">
-              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.2359882">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css">
+      <file leaf-file-name="002-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/002-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -69,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/008-Селекторы/013-Динамические_эффекты_с_помощью_hover.html" />
-        <option value="$PROJECT_DIR$/src/008-Селекторы/014-CSS.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/014-Псевдоклассы_link_visited_и_active.html" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/course5.css" />
         <option value="$PROJECT_DIR$/src/008-Селекторы/015-CSS.css" />
@@ -120,6 +120,8 @@
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/018-Испытание_взломанный_котопрофайл.html" />
         <option value="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css" />
         <option value="$PROJECT_DIR$/src/010-Промежуточные_испытания/001-фигурное_катание_спортивные_пары.html" />
+        <option value="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-CSS.css" />
+        <option value="$PROJECT_DIR$/src/010-Промежуточные_испытания/002-Испытание_2_медальный_зачёт.html" />
       </list>
     </option>
   </component>
@@ -154,7 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -208,7 +210,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +393,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selectoru v13" />
     <MESSAGE value="Selectoru v14" />
     <MESSAGE value="Selectoru v15" />
     <MESSAGE value="Selectoru v16" />
@@ -416,27 +417,14 @@
     <MESSAGE value="Nasledovanie i Kaskadirovanie v17" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v18" />
     <MESSAGE value="Promegutochnue Isputaniya v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Promegutochnue Isputaniya v1" />
+    <MESSAGE value="Promegutochnue Isputaniya v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Promegutochnue Isputaniya v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/013-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1650165">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/008-Селекторы/012-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1980198">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/008-Селекторы/011-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2310231">
@@ -759,31 +747,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/002-Наследование.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20797227">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/001-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6270627">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/002-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/001-фигурное_катание_спортивные_пары.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.179941">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/010-Промежуточные_испытания/002-Испытание_2_медальный_зачёт.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2359882">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
