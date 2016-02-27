@@ -1,0 +1,14 @@
+.important {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.note {
+    font-size: 0.8em;
+    color: #999;
+}
+
+.error {
+    text-decoration: line-through;
+    color: red;
+}
