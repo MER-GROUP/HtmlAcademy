@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/style1.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-CSS.css" afterPath="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-Испытание_рецепт_на_CSS.html" afterPath="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-Испытание_рецепт_на_CSS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="016-Испытание_рецепт_на_CSS.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-Испытание_рецепт_на_CSS.html">
+      <file leaf-file-name="001-Блочные_элементы.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41297936">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="016-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-CSS.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -62,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/013-CSS.css" />
-        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/013-Битва_за_курочку_Запрещённый_приём.html" />
-        <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/catinbox.css" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/014-CSS.css" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/014-Еще_одна_задачка_на_специфичность.html" />
         <option value="$PROJECT_DIR$/src/009-Наследование_и_каскадирование/015-CSS.css" />
@@ -113,6 +102,9 @@
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/015-Вертикальный_ритм_текста.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-CSS.css" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-Испытание_рецепт_на_CSS.html" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/style1.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-CSS.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html" />
       </list>
     </option>
   </component>
@@ -182,7 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="011-Оформление_текста_с_помощью_CSS" />
+              <option name="myItemId" value="012-Блочная_модель_документа" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -384,7 +376,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nasledovanie i Kaskadirovanie v13" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v14" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v15" />
     <MESSAGE value="Nasledovanie i Kaskadirovanie v16" />
@@ -409,34 +400,14 @@
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v14" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v15" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oformlenie teksta s pomoschu CSS v16" />
+    <MESSAGE value="Blochnaja model documenta v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/catinbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.650165">
-          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/014-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/013-Битва_за_курочку_Запрещённый_приём.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24263431">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/009-Наследование_и_каскадирование/015-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -796,10 +767,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.330033">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/001-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1980198">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/016-Испытание_рецепт_на_CSS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41297936">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
           <folding />
         </state>
       </provider>

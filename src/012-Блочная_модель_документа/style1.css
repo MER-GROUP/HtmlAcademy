@@ -1,0 +1,34 @@
+html{
+    padding:0;
+}
+body{
+    font-family:"Arial", sans-serif;
+    font-size:14px;
+    line-height:1.5;
+    color:white;
+    padding:0;
+    margin:0;
+    background:#3A78A1 url('grid.png') repeat -80px -80px;
+}
+p, div, h1, h2{
+    border:2px solid white;
+    background-color:#2E93B4;
+    background-color:rgba(0,255,255,0.2);
+    -webkit-background-origin:content-box;
+    -moz-background-origin:content-box;
+    background-origin:content-box;
+    -webkit-background-clip:content-box;
+    -moz-background-clip:content-box;
+    background-clip:content-box;
+}
+span,strong,em{
+    background-color:#9D3C50;
+    background-color:rgba(255, 0, 0, 0.5);
+    -webkit-background-origin:content-box;
+    -moz-background-origin:content-box;
+    background-origin:content-box;
+    -webkit-background-clip:content-box;
+    -moz-background-clip:content-box;
+    background-clip:content-box;
+    border:1px dotted white;
+}
