@@ -1,0 +1,10 @@
+h1 {
+    font-size: 24px;
+    white-space: pre-wrap;
+}
+.nowrap{
+    white-space: nowrap;
+}
+.like-pre{
+    white-space: pre;
+}
