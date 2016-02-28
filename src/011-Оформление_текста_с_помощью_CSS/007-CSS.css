@@ -1,0 +1,12 @@
+h1 {
+    font-size: 24px;
+}
+.under{
+    text-decoration: underline;
+}
+.over{
+    text-decoration: overline;
+}
+.through{
+    text-decoration: line-through;
+}
