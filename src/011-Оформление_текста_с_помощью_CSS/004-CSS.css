@@ -1,0 +1,10 @@
+h1 {
+    font-size: 24px;
+    font-style: italic;
+}
+em{
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
