@@ -1,0 +1,13 @@
+h1 {
+    font-size: 24px;
+}
+
+.dashed {
+    text-decoration: none;
+    color: #0088CC;
+    border-bottom: 1px dashed #0088CC;
+}
+
+.dashed:hover {
+    border-bottom: none;
+}
