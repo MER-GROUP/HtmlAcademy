@@ -1,0 +1,15 @@
+h1 {
+    font-size: 24px;
+}
+
+span {
+    background: rgba(210, 210, 210, 0.3);
+}
+
+.low {
+    line-height: 10px;
+}
+
+.high {
+    line-height: 1.5;
+}
