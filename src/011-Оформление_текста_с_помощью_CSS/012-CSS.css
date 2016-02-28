@@ -1,0 +1,32 @@
+h1 {
+    font-size: 36px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 28px;
+}
+
+li {
+    margin-bottom: 5px;
+    white-space: nowrap;
+    background: #f5f5f5;
+
+}
+
+small {
+    font-size: 8px;
+    color: #666;
+}
+
+.top{
+    vertical-align: top;
+}
+.middle{
+    vertical-align: middle;
+}
+.bottom{
+    vertical-align: bottom;
+}
