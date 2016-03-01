@@ -1,0 +1,16 @@
+.out {
+    width: 276px;
+    margin: 20px;
+}
+
+.m1 {
+    margin: 10px;
+}
+
+.m2 {
+    margin: 10px 20px;
+}
+
+.m3 {
+    margin: 10px 20px 30px;
+}
