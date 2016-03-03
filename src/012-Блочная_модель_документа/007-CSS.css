@@ -1,0 +1,14 @@
+.block {
+    width: 196px;
+    height: 36px;
+    margin: 20px;
+}
+
+.block2,
+.block3{
+    padding: 0px 20px;
+}
+
+.block3 {
+    border-width: 12px;
+}
