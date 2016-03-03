@@ -1,0 +1,22 @@
+div {
+    width: 280px;
+    height: 20px;
+    margin: 20px;
+    border: none;
+}
+
+span {
+    border: none;
+}
+
+.b1 {
+    border: 2px dashed yellow;
+}
+
+.b2 {
+    border: 2px dotted yellow;
+}
+
+.b3 {
+    border: 10px solid yellow;
+}
