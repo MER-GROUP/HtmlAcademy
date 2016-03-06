@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+}
+
+.block {
+    height: 96px;
+    line-height: 96px;
+    text-align: center;
+    vertical-align: center;
+}
+
+.block-1 {
+    margin-bottom: 20px;
+}
+
+.block-2 {
+    margin-top: 40px;
+}
