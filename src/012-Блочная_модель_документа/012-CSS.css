@@ -1,0 +1,12 @@
+body {
+    padding: 0 20px;
+}
+
+p {
+    padding: 5px;
+}
+em{
+    padding: 10px;
+    margin: 10px;
+    border-width: 3px;
+}
