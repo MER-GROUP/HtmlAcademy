@@ -1,0 +1,20 @@
+.container {
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.block {
+    padding: 10px 0;
+}
+
+.block-1 {
+    margin-bottom: 5px;
+    padding: 20px;
+}
+
+.block-2 {
+    padding: 20px;
+}
