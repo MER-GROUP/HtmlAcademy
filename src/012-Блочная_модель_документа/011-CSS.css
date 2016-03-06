@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+
+.block {
+    height: 96px;
+    line-height: 96px;
+    text-align: center;
+    vertical-align: center;
+    width: 96px;
+    margin: 0 auto;
+}

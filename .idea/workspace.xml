@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-Выпадание_внешних_отступов.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-Выпадание_внешних_отступов.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-Как_отцентровать_элемент.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-Как_отцентровать_элемент.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="010-Выпадание_внешних_отступов.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/010-Выпадание_внешних_отступов.html">
+      <file leaf-file-name="011-Как_отцентровать_элемент.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/011-Как_отцентровать_элемент.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1179941">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="010-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/010-CSS.css">
+      <file leaf-file-name="011-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/011-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/002-CSS.css" />
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/002-Свойство_font-size_задаем_размер_шрифта.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/003-Свойство_font-weight_толщина_начертания.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/004-CSS.css" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/009-Схлопывание_внешних_отступов.html" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-CSS.css" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/010-Выпадание_внешних_отступов.html" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-CSS.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/011-Как_отцентровать_элемент.html" />
       </list>
     </option>
   </component>
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oformlenie teksta s pomoschu CSS v2" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v3" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v4" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v5" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Blochnaja model documenta v8" />
     <MESSAGE value="Blochnaja model documenta v9" />
     <MESSAGE value="Blochnaja model documenta v10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v10" />
+    <MESSAGE value="Blochnaja model documenta v11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/002-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/002-Свойство_font-size_задаем_размер_шрифта.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/003-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2310231">
@@ -778,10 +764,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/011-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/010-Выпадание_внешних_отступов.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1179941">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/011-Как_отцентровать_элемент.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
           <folding />
         </state>
       </provider>
