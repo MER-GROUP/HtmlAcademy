@@ -1,0 +1,10 @@
+.outline {
+    margin: 5px;
+    padding: 5px;
+    background: rgba(0,0,0,0.1);
+    border: 1px dotted #666;
+}
+
+.column {
+    display: inline-block;
+}
