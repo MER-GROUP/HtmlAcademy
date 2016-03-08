@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-Управление_типом_элемента_свойство_display.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-Управление_типом_элемента_свойство_display.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,24 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="016-Второе_испытание.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html">
+      <file leaf-file-name="017-Управление_типом_элемента_свойство_display.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/017-Управление_типом_элемента_свойство_display.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3539823">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="016-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css">
+      <file leaf-file-name="017-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/017-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -65,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/008-CSS.css" />
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/008-Декоративное_подчеркивание.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/009-CSS.css" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/009-Задаем_регистр_символов_с_помощью_text-transform.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/010-CSS.css" />
@@ -116,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/015-Изменяем_блочную_модель_свойство_box-sizing.html" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-CSS.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/017-Управление_типом_элемента_свойство_display.html" />
       </list>
     </option>
   </component>
@@ -387,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oformlenie teksta s pomoschu CSS v8" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v9" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v10" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v11" />
@@ -412,27 +408,14 @@
     <MESSAGE value="Blochnaja model documenta v14" />
     <MESSAGE value="Blochnaja model documenta v15" />
     <MESSAGE value="Blochnaja model documenta v16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v16" />
+    <MESSAGE value="Blochnaja model documenta v17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/007-Свойство_text-decoration_подчеркивание_и_другие_эффекты.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/009-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/008-Декоративное_подчеркивание.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -777,10 +760,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0330033">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/017-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/015-Изменяем_блочную_модель_свойство_box-sizing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20797227">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -789,22 +799,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-CSS.css">
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/017-Управление_типом_элемента_свойство_display.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/016-Второе_испытание.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3539823">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

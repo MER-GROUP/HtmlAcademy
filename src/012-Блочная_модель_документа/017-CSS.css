@@ -1,0 +1,11 @@
+body {
+    padding: 10px 20px;
+}
+
+p {
+    display: inline;
+}
+
+strong {
+    display: block;
+}
