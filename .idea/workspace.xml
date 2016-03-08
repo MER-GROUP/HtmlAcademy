@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-display_table-cell.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-display_table-cell.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-CSS.css" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-display_none.html" afterPath="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-display_none.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="021-display_table-cell.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/021-display_table-cell.html">
+      <file leaf-file-name="022-display_none.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/022-display_none.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29498526">
               <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="021-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/021-CSS.css">
+      <file leaf-file-name="022-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/022-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/013-CSS.css" />
-        <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/013-Верхние_и_нижние_индексы_на_CSS.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/014-CSS.css" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/014-Свойство_line-height_управляем_высотой_строки.html" />
         <option value="$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/015-CSS.css" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/020-display_table-row.html" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-CSS.css" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/021-display_table-cell.html" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-CSS.css" />
+        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/022-display_none.html" />
       </list>
     </option>
   </component>
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oformlenie teksta s pomoschu CSS v13" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v14" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v15" />
     <MESSAGE value="Oformlenie teksta s pomoschu CSS v16" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Blochnaja model documenta v19" />
     <MESSAGE value="Blochnaja model documenta v20" />
     <MESSAGE value="Blochnaja model documenta v21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v21" />
+    <MESSAGE value="Blochnaja model documenta v22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blochnaja model documenta v22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/013-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5280528">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/014-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/011-Оформление_текста_с_помощью_CSS/013-Верхние_и_нижние_индексы_на_CSS.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17331022">
@@ -808,6 +794,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/021-display_table-cell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/022-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/022-display_none.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29498526">
           <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
