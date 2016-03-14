@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d227bb-cd83-4638-a2aa-c40c0533d48b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/013-Позиционирование/003-CSS.css" afterPath="$PROJECT_DIR$/src/013-Позиционирование/003-CSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/013-Позиционирование/003-position_relative_и_top.html" afterPath="$PROJECT_DIR$/src/013-Позиционирование/003-position_relative_и_top.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/013-Позиционирование/004-CSS.css" afterPath="$PROJECT_DIR$/src/013-Позиционирование/004-CSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/013-Позиционирование/004-position_relative_и_left.html" afterPath="$PROJECT_DIR$/src/013-Позиционирование/004-position_relative_и_left.html" />
     </list>
     <ignored path="HtmlAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="003-position_relative_и_top.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/003-position_relative_и_top.html">
+      <file leaf-file-name="004-position_relative_и_left.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/004-position_relative_и_left.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5899705">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.29498526">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="003-CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/003-CSS.css">
+      <file leaf-file-name="004-CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/004-CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html" />
-        <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/002-CSS.css" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/002-Строчные_элементы.html" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/012-Блочная_модель_документа/003-Ширина_и_высота.html" />
@@ -113,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/013-Позиционирование/002-Относительное_позиционирование.html" />
         <option value="$PROJECT_DIR$/src/013-Позиционирование/003-CSS.css" />
         <option value="$PROJECT_DIR$/src/013-Позиционирование/003-position_relative_и_top.html" />
+        <option value="$PROJECT_DIR$/src/013-Позиционирование/004-CSS.css" />
+        <option value="$PROJECT_DIR$/src/013-Позиционирование/004-position_relative_и_left.html" />
       </list>
     </option>
   </component>
@@ -384,7 +384,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blochnaja model documenta v2" />
     <MESSAGE value="Blochnaja model documenta v3" />
     <MESSAGE value="Blochnaja model documenta v4" />
     <MESSAGE value="Blochnaja model documenta v5" />
@@ -409,27 +408,14 @@
     <MESSAGE value="Pozicionirovanie v1" />
     <MESSAGE value="Pozicionirovanie v2" />
     <MESSAGE value="Pozicionirovanie v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pozicionirovanie v3" />
+    <MESSAGE value="Pozicionirovanie v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pozicionirovanie v4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/001-Блочные_элементы.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17331022">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/003-CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/012-Блочная_модель_документа/004-CSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -773,8 +759,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/003-position_relative_и_top.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5899705">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.17331022">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/004-CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/013-Позиционирование/004-position_relative_и_left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29498526">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding />
         </state>
       </provider>
