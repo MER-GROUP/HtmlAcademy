@@ -1,0 +1,23 @@
+body {
+    padding:20px;
+}
+
+.block {
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    background: #3A78A1;
+}
+
+.block-relative {
+    position:relative;
+    bottom: -10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    background: #3A78A1;
+}
+
+.block-shadow {
+    background: #ccc;
+}
